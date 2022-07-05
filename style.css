@@ -2,5 +2,26 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 h1{
-  font-size: 50px;
+  font-size: 60px;
+}
+section{
+  display: flex;
+}
+.top-banner{
+  width: 50%;
+  padding-left: 2%;
+  margin: 0%;
+}
+.top-banner img{
+  width: 75%;
+}
+#first-button{
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+}
+.orange-color{
+  color: orangered;
 }
